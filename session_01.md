@@ -30,7 +30,12 @@ Method used to train neural networks by calculating the error b/w networks predi
 - Deepseek r1 model (January 2025) is the first open source model
 - Mathematical problem solving to coding and general natural language understanding
 ## Key Deciding Factors of Growth of AI
+- Explosion of data & its generation with digital devices
+- Advancements in computing power
+- Algorithmic improvements
 ## Data Science, Machine Learning and Artificial Intelligence
+- Extract knowledge and insights from large & complex datasets
+- Uses advanced techniques to predict future outcomes
 ## Data Science Application Domains
 - E-commerce
 - Manufacturing
