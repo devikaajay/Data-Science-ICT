@@ -16,9 +16,22 @@
 - A decision is made to fire or not fire the neuron
 - Mathematical model of biological neuron
 ### Backpropagation
-Method used to train neural networks by calculating the error b/w networks predicted output and actual output, and then propaagating that error backward through the network. It minimizes errors and thereby icrease accuracy
+Method used to train neural networks by calculating the error b/w networks predicted output and actual output, and then propaagating that error backward through the network. It minimizes errors and thereby increase accuracy
 ### AI Winter
+- Geoff Hinton has dedicated his career to making computers learn like humans.
+- Hinton was influenced by key figures in AI, particularly Frank Rosenblatt's perceptron model.
+- He developed multi-layered neural networks, contributing to significant advancements in AI including self-driving cars and handwriting recognition.
+- Hinton faced skepticism and setbacks, often being marginalized at conferences. However, his persistence in pursuing AI advancements paid off.
+- 2006 marked a turning point with advanced computing power enabling neural networks to solve complex problems as Hinton envisioned.
+- By 2012, AI gained popularity, with Hinton's work prominently featured, demonstrating how neural networks could process images and language.
+- Hinton's research significantly contributed to establishing Canada as a major player in the AI field, changing perceptions worldwide.
 ### DARPA Grand Challenge 2005
+- Consists of 50 people from various companies and Stanford.
+- Developed a car named Stanley, a modified Volkswagen Touareg.
+- Equipped with sensors: 30 laser scanner, conventional camera, and a radar system for detecting vehicles up to 200 meters away.
+- Features quick actuation for steering via motor, automated gear shifter for reverse driving, and an emergency stop button.
+- Central processing uses six Pentium M-like computers.
+- Includes GPS and power inverter systems.
 ### ImageNet 2012
 - Large virtual database designed for visual object detection
 - 14 million+ images, 20000 categories each having several 100 images
